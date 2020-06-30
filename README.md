@@ -6,7 +6,7 @@ Since the outbreak of COVID-19 in Wuhan, China, the infection has spread around 
 
 **Data**
 
-The datasets are downloaded from [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases.They are time series data tracking the number of people affected by COVID-19 worldwide and include cases of confirmed, recovered and deaths, and the world populationdata. The measures data acaps\_covid19\_government\_measures\_dataset.xlsx](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases.%20They%20are%20time%20series%20data%20tracking%20the%20number%20of%20people%20affected%20by%20COVID-19%20worldwide%20and%20include%20cases%20of%20confirmed,%20recovered%20and%20deaths,%20and%20the%20world%20population%20data.%20The%20measures%20data%20acaps_covid19_government_measures_dataset.xlsx) is also sourced from the same site.
+The datasets are downloaded from [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases].They are time series data tracking the number of people affected by COVID-19 worldwide and include cases of confirmed, recovered and deaths, and the world populationdata. The measures data acaps\_covid19\_government\_measures\_dataset.xlsx(https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases.%20They%20are%20time%20series%20data%20tracking%20the%20number%20of%20people%20affected%20by%20COVID-19%20worldwide%20and%20include%20cases%20of%20confirmed,%20recovered%20and%20deaths,%20and%20the%20world%20population%20data.%20The%20measures%20data%20acaps_covid19_government_measures_dataset.xlsx) is also sourced from the same site.
 
 **Analysis**
 
